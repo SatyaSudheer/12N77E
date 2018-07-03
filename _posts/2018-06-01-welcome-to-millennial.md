@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome to 12N77E Blog!"
+date: "2018-06-01 18:08:41 +0200"
 author: "Satya Sudheer"
 categories: notes
 tags: [notes]
